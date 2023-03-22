@@ -1,4 +1,12 @@
-### Hi there 👋
+
+
+<div id="header" align="center">
+  <h3> Hi there 👋 </h3>
+  <img src="" width="100"/>
+  <h3>My name is Masaya!</h3>
+</div>
+
+
 
 <!--
 **masayafunakoshi1/masayafunakoshi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
